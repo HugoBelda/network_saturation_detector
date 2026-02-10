@@ -1,4 +1,3 @@
-import psutil
 
 def calculate_throughput(prev, curr, interval):
     """
